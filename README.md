@@ -27,5 +27,19 @@ By using the code attribute we can select particular area and url of webpage wil
 # Output:
 ![image](https://github.com/sreekarsh/Ex-04-webTech_imagemap/assets/139841918/4912c830-de22-4d2d-a17c-15b6b7269ebd)
 
+![image](https://github.com/sreekarsh/Ex-04-webTech_imagemap/assets/139841918/2857807f-9ce2-4f23-9404-6b4b1cf1bfa5)
+
+![image](https://github.com/sreekarsh/Ex-04-webTech_imagemap/assets/139841918/735850ac-64ff-4b5c-9f71-d5f8eced382d)
+
+![image](https://github.com/sreekarsh/Ex-04-webTech_imagemap/assets/139841918/28fdc653-be52-4bbe-90c4-ed89ba4f93bf)
+
+![image](https://github.com/sreekarsh/Ex-04-webTech_imagemap/assets/139841918/e2a09417-18b4-48d8-b1a6-c5e9b7b27a89)
+
+![image](https://github.com/sreekarsh/Ex-04-webTech_imagemap/assets/139841918/d39e9a21-9797-4194-949b-fdef54fe710e)
+
+
+
+
+
 # Result:
 Thus The program is executed sucessfully.
